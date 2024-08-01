@@ -1,4 +1,4 @@
-# Life Journey Cruises
+# :boat:Life Journey Cruises
 <a id='readme-top'> </a>
 <details>
  <summary>Table of Contents</summary>
@@ -26,9 +26,9 @@
 </details>
 
 
-## About
+## :books:About
 :anchor: Ahoy!
-Welcome to Life Journey Cruises, a sample platform where users can explore, plan, and book a cruise to one of our many destinations. Our application uses a streamlined checkout process and user-friendly features --such as our AI chatbot -- to simplify the booking process and offer an enhanced user experience.
+Welcome to Life Journey Cruises, a platform where users can explore, plan, and book a cruise to one of our many destinations. Our application uses a streamlined checkout process and user-friendly features --such as our AI chatbot -- to simplify the booking process and offer an enhanced user experience.
 
 <div align="center">
  <h3> Explore :earth_americas:</h3>
@@ -40,36 +40,36 @@ Welcome to Life Journey Cruises, a sample platform where users can explore, plan
 </div>
 
 ## :computer: Technologies
-Front-End:
+**Front-End**
 ![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
 
 
-Back End:
+**Back End**
 ![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix)
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 
-Testing:
+**Testing**
 ![k6](https://img.shields.io/badge/k6-black?style=for-the-badge&logo=k6)
 ![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)
 
+## :ship: Our Team - the crew!
 
+ **Product Manager:** Pallavi :small_blue_diamond: 
+ **Architecture Owner:** Jason :small_blue_diamond: 
+ **UI Designer:** Tyler :small_blue_diamond: 
 
-
-
-
-## :ship: Our Team
-
-### Full-Stack Developers - The Nautical Nine
-|  Shaoyu Chen   |  Liru Zhao     |  Denis More    |  Jason  Ullrich  |  Tyler  Johnson  |  Tanner  Jacobson  |  Michael  Trofimov  |  Pallavi  Kishore  |  Lu  Lu        |
-|  :----------:  |  :----------:  |  :----------:  |  :----------:    |  :----------:    |  :----------:      |  :----------:       |  :----------:      |  :----------:  |
-|  LinkedIn      |  LinkedIn      |  LinkedIn      |  LinkedIn        |  LinkedIn        |  LinkedIn          |  LinkedIn           |  LinkedIn          |  LinkedIn      |
-|  Github        |  Github        |  Github        |  Github          |  Github          |  Github            |  Github             |  Github            |  Github        |
-
- Product Manager: Pallavi :small_blue_diamond: Architecture Owner: Jason :small_blue_diamond: UI Designer: Tyler
-
+1.Shaoyu Chen (https://github.com/shaoyuchen3213)   
+2.Liru Zhao (https://github.com/zlrhhj)
+3.Denis More (https://github.com/KarB0NE)
+4.Jason Ullrich (https://github.com/jasonullrich)
+5.Tyler Johnson (https://github.com/t-ylerJ)
+6.Tanner Jacobson (https://github.com/Hooby778)
+7.Michael  Trofimov (https://github.com/mictro97)
+8.Pallavi Kishore (https://github.com/Pallavi25Kishore)
+9.Lu Lu (https://github.com/llu99)
 
 ## :file_folder: Roadmap
  - [X] Set up a Remix framework to make sure everyone’s on the same page concerning the project structure
@@ -90,7 +90,7 @@ Testing:
 npm install
 ```
 
-### Installation
+### :rocket:Installation
 1. Clone the repo.
 ```sh
   git clone https://github.com/thenauticalnine/rfp2404-blueocean.git
