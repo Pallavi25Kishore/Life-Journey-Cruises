@@ -35,15 +35,7 @@ Welcome to Life Journey Cruises, a platform where users can explore, plan, and b
  **Architecture Owner:** Jason :small_blue_diamond: 
  **UI Designer:** Tyler :small_blue_diamond: 
 
-1.Shaoyu Chen (https://github.com/shaoyuchen3213)   
-2.Liru Zhao (https://github.com/zlrhhj)
-3.Denis More (https://github.com/KarB0NE)
-4.Jason Ullrich (https://github.com/jasonullrich)
-5.Tyler Johnson (https://github.com/t-ylerJ)
-6.Tanner Jacobson (https://github.com/Hooby778)
-7.Michael  Trofimov (https://github.com/mictro97)
-8.Pallavi Kishore (https://github.com/Pallavi25Kishore)
-9.Lu Lu (https://github.com/llu99)
+1.Shaoyu Chen (https://github.com/shaoyuchen3213) | 2.Liru Zhao (https://github.com/zlrhhj) | 3.Denis More (https://github.com/KarB0NE) | 4.Jason Ullrich (https://github.com/jasonullrich) | 5.Tyler Johnson (https://github.com/t-ylerJ) | 6.Tanner Jacobson (https://github.com/Hooby778) | 7.Michael  Trofimov (https://github.com/mictro97) | 8.Pallavi Kishore (https://github.com/Pallavi25Kishore) | 9.Lu Lu (https://github.com/llu99)
 
 ## :file_folder: Roadmap
  - [X] Set up a Remix framework to make sure everyone’s on the same page concerning the project structure
