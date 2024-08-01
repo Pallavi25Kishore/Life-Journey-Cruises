@@ -1,30 +1,4 @@
 # :boat:Life Journey Cruises
-<a id='readme-top'> </a>
-<details>
- <summary>Table of Contents</summary>
- <ol>
-  <li>
-   <a href="#about">About</a>
-   <ul>
-    <li>
-     <a href="#computer-technologies">Technologies</a>
-    </li>
-    <li>
-      <a href="#ship-our-team">Our Team:</a>
-    </li>
-   </ul>
-  </li>
-  <li>
-   <a href="#white_check_mark-getting-started">Getting Started</a>
-  </li>
-  <ul>
-    <li>
-     <a href="#file_folder-roadmap">Roadmap</a>
-    </li>
-  </ul>
- </ol>
-</details>
-
 
 ## :books:About
 :anchor: Ahoy!
@@ -111,18 +85,32 @@ npm install
 ```
 
 ## Git Workflow :arrows_clockwise:
- 	# Switch to the main branch
+**Switch to the main branch**
+```sh
 git checkout main
-# Update the main branch with the latest changes from the remote repository
+```
+**Update the main branch with the latest changes from the remote repository**
+```sh
 git pull origin main
-# Switch to your feature branch
+```
+**Switch to your feature branch**
+```sh
 git checkout <branchname>
-# Merge the latest changes from the main branch into your feature branch
+```
+**Merge the latest changes from the main branch into your feature branch**
+```sh
 git merge main
-# Check the status of your feature branch to see if there are any uncommitted changes
+```
+**Check the status of your feature branch to see if there are any uncommitted changes**
+```sh
 git status
-# If there are changes, add and commit them
+```
+**If there are changes, add and commit them**
+```sh
 git add .
 git commit -m "Your commit message"
-# Push your feature branch to the remote repository
+```
+**Push your feature branch to the remote repository**
+```sh
 git push origin <branchname>
+```
